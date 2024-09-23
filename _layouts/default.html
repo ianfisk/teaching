@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
+		<meta name="description" content="Welcome to Ian Fisk's teaching portfolio!"/>
+		<link rel="icon" href="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%2220%22%3E%3Ccircle%20fill%3D%22%23355C7D%22%20stroke%3D%22%23355C7D%22%20stroke-width%3D%224%22%20cx%3D%22100%22%20cy%3D%22100%22%20r%3D%2294%22%3E%3C%2Fcircle%3E%3Ccircle%20fill%3D%22none%22%20stroke%3D%22%23355C7D%22%20stroke-width%3D%225%22%20cx%3D%22300%22%20cy%3D%22100%22%20r%3D%2294%22%3E%3C%2Fcircle%3E%3Ccircle%20fill%3D%22none%22%20stroke%3D%22%23355C7D%22%20stroke-width%3D%225%22%20cx%3D%22100%22%20cy%3D%22300%22%20r%3D%2294%22%3E%3C%2Fcircle%3E%3Ccircle%20fill%3D%22%23355C7D%22%20stroke%3D%22%23355C7D%22%20stroke-width%3D%224%22%20cx%3D%22300%22%20cy%3D%22300%22%20r%3D%2294%22%3E%3C%2Fcircle%3E%3C%2Fsvg%3E">
+
+		<title>IAN FISK – Home</title>
+
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     {% seo title=false %}
     {% include meta.html %}
@@ -10,8 +15,6 @@
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
     <meta name="theme-color" content="#000000">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
-    {% include analytics_head.html %}
   </head>
 
   <body>
@@ -24,7 +27,7 @@
 
             <div class="site-info">
               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <p class="site-description">{{ site.description }}</p> 
+              <p class="site-description">{{ site.description }}</p>
             </div>
 
             <nav>
@@ -52,7 +55,5 @@
         </div>
       </div>
     </div>
-
-    {% include analytics.html %}
   </body>
 </html>

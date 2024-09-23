@@ -1,5 +1,4 @@
-<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta content='text/html; charset=utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
 {% if page.excerpt %}
@@ -13,13 +12,10 @@
 
 {% if page.title %}
 <meta property="og:title" content="{{ page.title }}" />
-<meta property="twitter:title" content="{{ page.title }}" />
 {% endif %}
 
 {% if page.image %}
 <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
-<meta property="twitter:image" content="{{ site.url }}{{ page.image }}"/>
 {% else %}
 <meta property="og:image" content="{{ site.url }}{{ site.avatar }}"/>
-<meta property="twitter:image" content="{{ site.url }}{{ site.avatar }}"/>
 {% endif %}
