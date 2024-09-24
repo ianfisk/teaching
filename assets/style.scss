@@ -704,7 +704,7 @@ Modules - reusable parts of our design
 .pagination a {
   &:hover {
       background-color: #f1f1f1;
-      color: #333;
+      color: $darkGray;
   }
 }
 
@@ -1129,3 +1129,4 @@ Modules - reusable parts of our design
 //@import "highlights";
 @import "darcula";
 @import "svg-icons";
+@import "my-styles";

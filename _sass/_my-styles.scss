@@ -1,0 +1,56 @@
+.nav-tooltip {
+  display: inline;
+  padding: 8px 0;
+  position: relative;
+
+  .tooltip-content {
+    visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 8px;
+    position: absolute;
+    z-index: 1;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+
+    // TODO: Add accessible access to tooltip menu
+    // https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/menubar_role
+    // https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-haspopup
+    // https://uxdesign.cc/hover-and-expand-navigation-menu-is-bad-for-accessibility-23fecd2b655
+    transition: opacity 0.3s 0.3s;
+
+    &.about-tooltip {
+      width: 208px;
+      left: 8%;
+    }
+  }
+
+  // The tooltip's caret
+  .tooltip-content::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent #555 transparent;
+  }
+
+  &:hover .tooltip-content {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  .tooltip-content a {
+    color: $lightGray;
+    &:hover, &:active {
+      color: $lightblue;
+    }
+  }
+}

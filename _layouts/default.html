@@ -31,8 +31,23 @@
 
             <nav>
               <a href="{{ site.baseurl }}/">Home</a>
-              <a href="{{ site.baseurl }}/about-me">About me</a>
-              <a href="{{ site.baseurl }}/standards">Teacher quality standards</a>
+              <div class="nav-tooltip">
+                <a href="{{ site.baseurl }}/about-me">About me</a>
+                <div class="tooltip-content about-tooltip" aria-label="About me hover menu">
+                  <a href="{{ site.baseurl }}/about-me">Biography</a>
+                  <a href="{{ site.baseurl }}/about-me">Teaching philosophy</a>
+                  <a href="{{ site.baseurl }}/about-me">Resume</a>
+                </div>
+              </div>
+              <div class="nav-tooltip">
+                <a href="{{ site.baseurl }}/standards">Teacher quality standards</a>
+                <div class="tooltip-content" aria-label="Teacher quality standards hover menu">
+                  <a href="{{ site.baseurl }}/standards">Standard I</a>
+                  <a href="{{ site.baseurl }}/standards">Standard II</a>
+                  <a href="{{ site.baseurl }}/standards">Standard III</a>
+                  <a href="{{ site.baseurl }}/standards">Standard IV</a>
+                </div>
+              </div>
               <a href="{{ site.baseurl }}/contact">Contact</a>
             </nav>
           </header>
