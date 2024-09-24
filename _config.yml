@@ -9,7 +9,7 @@ name: Ian Fisk
 author: Ian Fisk
 
 # Short bio or description (displayed in the header)
-description: Secondary Computer Science Education Portfolio
+description: Computer Science
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/jtree_sm2.png
@@ -20,9 +20,9 @@ avatar: /images/jtree_sm2.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email:
-  github:
-  linkedin:
+  email: i.fisk32@gmail.com
+  github: ianfisk
+  linkedin: ifisk
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-43339302-11

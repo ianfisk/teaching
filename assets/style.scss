@@ -32,7 +32,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 840px;
   padding: 0 10px;
   width: 100%;
 }
@@ -134,22 +134,6 @@ table tr td :last-child {
     font-size: 3.333em;
     line-height: 0.75em;
 }*/
-
-#search-container {
-  text-align: center;
-}
-
-#search-input {
-  width: 80%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-  font-size: 18px;
-  background-color: #fff3ff;
-}
 
 .share-box {
   font-weight: bold;
@@ -614,7 +598,7 @@ Modules - reusable parts of our design
 
 #gh-latest{
     font-size: 16px;
-    text-align: center;		
+    text-align: center;
 }
 
 .text-link {
@@ -717,7 +701,7 @@ Modules - reusable parts of our design
   display: inline-block;
 }
 
-.pagination a {    
+.pagination a {
   &:hover {
       background-color: #f1f1f1;
       color: #333;

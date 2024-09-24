@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-		<meta name="description" content="Welcome to Ian Fisk's teaching portfolio!"/>
-		<link rel="icon" href="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%2220%22%3E%3Ccircle%20fill%3D%22%23355C7D%22%20stroke%3D%22%23355C7D%22%20stroke-width%3D%224%22%20cx%3D%22100%22%20cy%3D%22100%22%20r%3D%2294%22%3E%3C%2Fcircle%3E%3Ccircle%20fill%3D%22none%22%20stroke%3D%22%23355C7D%22%20stroke-width%3D%225%22%20cx%3D%22300%22%20cy%3D%22100%22%20r%3D%2294%22%3E%3C%2Fcircle%3E%3Ccircle%20fill%3D%22none%22%20stroke%3D%22%23355C7D%22%20stroke-width%3D%225%22%20cx%3D%22100%22%20cy%3D%22300%22%20r%3D%2294%22%3E%3C%2Fcircle%3E%3Ccircle%20fill%3D%22%23355C7D%22%20stroke%3D%22%23355C7D%22%20stroke-width%3D%224%22%20cx%3D%22300%22%20cy%3D%22300%22%20r%3D%2294%22%3E%3C%2Fcircle%3E%3C%2Fsvg%3E">
+    <meta name="description" content="Welcome to Ian Fisk's teaching portfolio!"/>
+    <link rel="icon" href="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%2220%22%3E%3Ccircle%20fill%3D%22%23355C7D%22%20stroke%3D%22%23355C7D%22%20stroke-width%3D%224%22%20cx%3D%22100%22%20cy%3D%22100%22%20r%3D%2294%22%3E%3C%2Fcircle%3E%3Ccircle%20fill%3D%22none%22%20stroke%3D%22%23355C7D%22%20stroke-width%3D%225%22%20cx%3D%22300%22%20cy%3D%22100%22%20r%3D%2294%22%3E%3C%2Fcircle%3E%3Ccircle%20fill%3D%22none%22%20stroke%3D%22%23355C7D%22%20stroke-width%3D%225%22%20cx%3D%22100%22%20cy%3D%22300%22%20r%3D%2294%22%3E%3C%2Fcircle%3E%3Ccircle%20fill%3D%22%23355C7D%22%20stroke%3D%22%23355C7D%22%20stroke-width%3D%224%22%20cx%3D%22300%22%20cy%3D%22300%22%20r%3D%2294%22%3E%3C%2Fcircle%3E%3C%2Fsvg%3E">
 
-		<title>IAN FISK – Home</title>
-
+    <!-- <title>IAN FISK – Home</title> -->
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     {% seo title=false %}
     {% include meta.html %}
@@ -23,19 +22,18 @@
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+            <a href="{{ site.baseurl }}/" class="site-avatar" aria-label="Homepage"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
 
             <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <h1 class="site-name"><a href="{{ site.baseurl }}/" aria-label="Homepage">{{ site.name }}</a></h1>
               <p class="site-description">{{ site.description }}</p>
             </div>
 
             <nav>
               <a href="{{ site.baseurl }}/">Home</a>
-              <a href="{{ site.baseurl }}/getting-started">Getting Started</a>
-              <a href="{{ site.baseurl }}/search">Search</a>
-              <a href="{{ site.baseurl }}/about">About</a>
-              <a href="{{ site.baseurl }}/archive">Archive</a>
+              <a href="{{ site.baseurl }}/about-me">About me</a>
+              <a href="{{ site.baseurl }}/standards">Teacher quality standards</a>
+              <a href="{{ site.baseurl }}/contact">Contact</a>
             </nav>
           </header>
         </div>
