@@ -25,13 +25,13 @@
     transition: opacity 0.3s 0.3s;
 
     &.about-tooltip {
-      width: 208px;
+      width: 212px;
       left: 8%;
     }
   }
 
   // The tooltip's caret
-  .tooltip-content::after {
+  .tooltip-content::before {
     content: "";
     position: absolute;
     bottom: 100%;
@@ -49,6 +49,10 @@
 
   .tooltip-content a {
     color: $lightGray;
+    text-align: left;
+    margin-left: 4px;
+    margin-right: 20px;
+
     &:hover, &:active {
       color: $lightblue;
     }
