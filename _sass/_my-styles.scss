@@ -4,7 +4,6 @@
   position: relative;
 
   .tooltip-content {
-    visibility: hidden;
     display: flex;
     flex-direction: column;
     background-color: #555;
@@ -17,11 +16,6 @@
     left: 50%;
     margin-left: -60px;
     opacity: 0;
-
-    // TODO: Add accessible access to tooltip menu
-    // https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/menubar_role
-    // https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-haspopup
-    // https://uxdesign.cc/hover-and-expand-navigation-menu-is-bad-for-accessibility-23fecd2b655
     transition: opacity 0.3s 0.3s;
 
     &.about-tooltip {
@@ -43,7 +37,11 @@
   }
 
   &:hover .tooltip-content {
-    visibility: visible;
+    opacity: 1;
+  }
+
+  // Open the dropdown when the user tabs to (focuses) a header link or a menu link.
+  &:has( a:focus)>.tooltip-content {
     opacity: 1;
   }
 
