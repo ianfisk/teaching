@@ -4,4 +4,4 @@ title: Teacher Quality Standards
 permalink: /standards/
 ---
 
-Standards
+Standards (TODO: link to each)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching philosophy
+title: Teaching Philosophy
 permalink: /philosophy/
 ---
 
