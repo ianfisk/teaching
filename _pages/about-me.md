@@ -8,7 +8,7 @@ permalink: /about-me/
 
 My desire to change careers into teaching has been a personal odyssey many years in the making. It has been a decision that, at times, keeps me up at night, sparking in me fears of the unknown, and yet at other times it feels like the only right path to take. I am a professional software engineer turned Computer Science teacher, and I am coming from working in the world of Big Tech–most recently I was at Google. It is the job that I literally dreamed about in university, but even after achieving this ultimate career goal I was not happy. {% include pullquote.html quote="I wasn’t satisfied with my place in the community, I wasn’t satisfied with my place in such a big corporation, and I didn’t feel like I was helping people." %}
 
-<!-- {% include pullquote.html quote="It is typically placed in a larger or distinctive typeface and on the same page." %} -->
+<img src="{{ site.baseurl }}/images/google.png" alt="Google Seattle office" class="google" />
 
 My goal of becoming a teacher stems from my love of community and the desire to perform a job where I feel like I am able to make a meaningful impact in a local community.  If there is anything I’ve learned so far in my personal and professional life, it’s that I like to help people, I love creating an environment of learning for myself and others, and I enjoy fostering fun and inclusive communities. I believe teaching is the perfect place I can build upon these goals.
 
