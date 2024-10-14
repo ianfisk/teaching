@@ -10,10 +10,20 @@ Please explore the linked standards below for my reflections on the standards an
 
 ### The Act of Teaching
 
-- [Standard I: _Teachers demonstrate mastery of and pedagogical expertise in the content they teach._]({{ site.baseurl }}/standards/one)
-- [Standard II: _Teachers establish a safe, inclusive and respectful learning environment for a diverse  population of students._]({{ site.baseurl }}/standards/two)
-- [Standard III: _Teachers plan and deliver effective instruction and create an environment that  facilitates learning for their students._]({{ site.baseurl }}/standards/three)
+- [Standard I]({{ site.baseurl }}/standards/one)
+
+	_Teachers demonstrate mastery of and pedagogical expertise in the content they teach._
+
+- [Standard II]({{ site.baseurl }}/standards/two)
+
+	 _Teachers establish a safe, inclusive and respectful learning environment for a diverse population of students._
+
+- [Standard III]({{ site.baseurl }}/standards/three)
+
+	_Teachers plan and deliver effective instruction and create an environment that facilitates learning for their students._
 
 ### Continuous Improvement
 
-- [Standard IV: _Teachers demonstrate professionalism through ethical conduct, reflection, and leadership._]({{ site.baseurl }}/standards/four)
+- [Standard IV]({{ site.baseurl }}/standards/four)
+
+	_Teachers demonstrate professionalism through ethical conduct, reflection, and leadership._
