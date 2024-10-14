@@ -6,7 +6,7 @@ permalink: /standards/
 
 Colorado created a [State Model Evaluation System](https://www.cde.state.co.us/educatoreffectiveness/smes-teacher) for teachers that can be used to measure a teacher's professional development and student learning over time. Colorado State University's Center for Educator Preparation (CEP) has "adapated these standards to reflect the specific context and opportunities available to teacher candidates" in the program (Colorado State University, 2021). CEP's quality standards evaluate two categories–the act of teaching and continuous improvement.
 
-Please explore the linked standards below for my reflections on the standards and evidence how I met these standards in the classroom.
+Please explore the links below for my reflections on the standards and evidence how I met them in the classroom.
 
 ### The Act of Teaching
 
