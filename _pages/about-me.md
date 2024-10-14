@@ -16,3 +16,7 @@ Over the years of my professional career, I have explored my desire to work in e
 
 Career changes are always periods filled with unknowns, but I’m choosing to focus more on my excitement towards the upcoming changes in my life and my career. I was filled with the most joy at work when I was helping new team members succeed and walking through complicated code with other people, and this mentoring experience has helped me realize education is where my passion lies. That, and my time volunteering in the community and learning at Colorado State University in the M.Ed. program, has helped reassure me that education is where I’m supposed to be.
 
+## See more
+
+- [Teaching philosophy]({{ site.baseurl }}/philosophy)
+- [Résumé]({{ site.baseurl }}/resume)

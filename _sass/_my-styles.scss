@@ -72,6 +72,13 @@
   }
 }
 
+// Set in bootstrap.js. Pages under a top-level nav item should link to other pages under that nav item.
+body[input-type="TOUCH"] {
+  .tooltip-content {
+    display: none;
+  }
+}
+
 .google {
   width: 500px;
 }

@@ -29,3 +29,9 @@ Lorem ipsum dolor sit amet
 > Teachers work collaboratively with the families and/or significant adults for the benefit of students.
 
 Lorem ipsum dolor sit amet
+
+## See more
+
+- [Teaching Standard I]({{ site.baseurl }}/standards/one)
+- [Teaching Standard III]({{ site.baseurl }}/standards/three)
+- [Teaching Standard IV]({{ site.baseurl }}/standards/four)

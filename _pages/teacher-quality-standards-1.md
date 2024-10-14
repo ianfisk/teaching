@@ -23,3 +23,9 @@ Lorem ipsum dolor sit amet
 > Teachers demonstrate knowledge of the content, central concepts, inquiry, appropriate evidence-based instructional practices, and specialized characteristics of the disciplines being taught.
 
 Lorem ipsum dolor sit amet
+
+## See more
+
+- [Teaching Standard II]({{ site.baseurl }}/standards/two)
+- [Teaching Standard III]({{ site.baseurl }}/standards/three)
+- [Teaching Standard IV]({{ site.baseurl }}/standards/four)

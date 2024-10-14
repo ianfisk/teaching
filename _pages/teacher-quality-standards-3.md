@@ -41,3 +41,9 @@ Lorem ipsum dolor sit amet
 > Teachers model and promote effective communication.
 
 Lorem ipsum dolor sit amet
+
+## See more
+
+- [Teaching Standard I]({{ site.baseurl }}/standards/one)
+- [Teaching Standard II]({{ site.baseurl }}/standards/two)
+- [Teaching Standard IV]({{ site.baseurl }}/standards/four)
