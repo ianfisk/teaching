@@ -161,7 +161,6 @@ span[data-pullquote]:before {
 
 a {
   color: $blue;
-  text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
@@ -254,6 +253,10 @@ p > img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+
+  a {
+    text-decoration: none;
+  }
 
   @include mobile {
     text-align: center;
