@@ -4,8 +4,6 @@ title: About me
 permalink: /about-me/
 ---
 
---------------
-
 My desire to change careers into teaching has been a personal odyssey many years in the making. It has been a decision that, at times, keeps me up at night, sparking in me fears of the unknown, and yet at other times it feels like the only right path to take. I am a professional software engineer turned Computer Science teacher, and I am coming from working in the world of Big Tech–most recently I was at Google. It is the job that I literally dreamed about in university, but even after achieving this ultimate career goal I was not happy. {% include pullquote.html quote="I wasn’t satisfied with my place in the community, I wasn’t satisfied with my place in such a big corporation, and I didn’t feel like I was helping people." %}
 
 <img src="{{ site.baseurl }}/images/google.png" alt="Google Seattle office" class="google" />
