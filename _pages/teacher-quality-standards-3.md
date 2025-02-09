@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet
 
 > Teachers use formal and informal methods to assess student learning, provide feedback, and use results to inform planning and instruction.
 
-Lorem ipsum dolor sit amet
+TODO: Screenshot of AP assignment feedback.
 
 <br>
 
@@ -43,7 +43,7 @@ In almost all the classes I taught, it wasn’t hard to introduce technological 
 
 > Teachers establish and communicate high expectations and use processes to support the development of critical-thinking and problem-solving skills.
 
-Lorem ipsum dolor sit amet
+TODO: Rubric?
 
 <br>
 
@@ -55,11 +55,18 @@ Lorem ipsum dolor sit amet
 
 <br>
 
-### Element F
+### Element F – _Teachers model and promote effective communication._
 
-> Teachers model and promote effective communication.
+<figure>
+	<img src="{{ site.baseurl }}/images/ap-class-announcement.png">
+	<figcaption>An announcement to the AP CSA class to reiterate an adjustment of due dates and what was expected by students.</figcaption>
+</figure>
 
-Lorem ipsum dolor sit amet
+I believe that quick, effective, and open communication should be employed when working in any professional setting, including when talking to parents and students. Developing a comfortable space to have an open dialogue, give and receive feedback, and communicate expectations is always a goal of mine in any class.
+
+Here is an example of an announcement I made to a class to communicate what was expected from them after we moved around due dates to adjust to students’ progress. This information was conveyed verbally during class time, but announcing it _a second time_ in writing helped ensure all students (gone or not) got the message. (At the time, we were focusing on breaking down problems using pseudocode before attempting to actually program the solution. As a result, you can see how I used a bit of pseudocode to express myself.)
+
+A more formal example of how I communicate with students can be found in [these lab instructions directing students in their development of a Wordle clone](https://github.com/ianfisk/teaching-materials/blob/main/wordle/part-one/README.md). I developed this project with a focus on differentiated instruction–the entire project idea came about after noticing how much my students loved Wordle, and I focused on supporting a variety of learners by creating **detailed** written instruction accompanied by screenshots and video instruction.
 
 ## See more
 
