@@ -19,4 +19,4 @@ Career changes are always periods filled with unknowns, but I’m choosing to fo
 ## See more
 
 - [Teaching philosophy]({{ site.baseurl }}/philosophy)
-- [Résumé]({{ site.baseurl }}/resume)
+- [Curriculum Vitae]({{ site.baseurl }}/cv)

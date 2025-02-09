@@ -7,4 +7,4 @@ permalink: /philosophy/
 ## See more
 
 - [About me]({{ site.baseurl }}/about-me)
-- [Résumé]({{ site.baseurl }}/resume)
+- [Curriculum Vitae]({{ site.baseurl }}/cv)
