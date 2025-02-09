@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet
 
 > Teachers demonstrate leadership in the school, the community, and the teaching profession.
 
-Lorem ipsum dolor sit amet
+_"You're a baddie, Mr. Fisk."_ - Brianna
 
 ## See more
 

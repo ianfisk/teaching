@@ -28,7 +28,16 @@ Lorem ipsum dolor sit amet
 
 > Teachers work collaboratively with the families and/or significant adults for the benefit of students.
 
-Lorem ipsum dolor sit amet
+<figure>
+	<img src="{{ site.baseurl }}/images/ptc-calendar.png">
+	<figcaption>Calendar view of my Parent/Teacher Conference schedule.</figcaption>
+</figure>
+
+
+#### Artifact and Rationale
+In January and February, I actively engaged in Rocky's Back to School Night and Parent/Teacher Conferences. My mentor-teacher and I employed a collaborative approach to leading these meetings, ensuring both of our perspectives on individual student progress were shared authentically with parents.
+
+Back to School Night and Parent/Teacher Conferences provided invaluable opportunities to establish positive relationships with families. These events allowed me to introduce myself, learn about families' backgrounds and perspectives, and create a welcoming environment where parents could get to know me. My goal was to build trust and confidence in my role as a student teacher and in my instructional plans. These initial connections proved essential in cultivating open communication and ultimately allowed me to better support the success of my students.
 
 ## See more
 
