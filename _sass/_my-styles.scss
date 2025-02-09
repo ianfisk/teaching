@@ -1,94 +1,94 @@
 .nav-tooltip {
-  display: inline;
-  padding: 8px 0;
-  position: relative;
+	display: inline;
+	padding: 8px 0;
+	position: relative;
 
-  .tooltip-content {
-    display: flex;
-    flex-direction: column;
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    position: absolute;
-    z-index: 1;
-    left: 50%;
-    margin-left: -60px;
-    transition: opacity 0.3s 0.2s;
+	.tooltip-content {
+		display: flex;
+		flex-direction: column;
+		background-color: #555;
+		color: #fff;
+		text-align: center;
+		border-radius: 6px;
+		position: absolute;
+		z-index: 1;
+		left: 50%;
+		margin-left: -60px;
+		transition: opacity 0.3s 0.2s;
 
-    // Setting width: 0; prevents the menu from showing when hovering over
-    // where the menu would be if visible. I.e., the menu should only be
-    // visible when you first hover over/focus the nav link and then maintain
-    // over the menu. Using visibility: hidden/visible; to accomplish this
-    // breaks tab navigation.
-    opacity: 0;
-    overflow: hidden;
-    padding: 0;
-    width: 0;
-  }
+		// Setting width: 0; prevents the menu from showing when hovering over
+		// where the menu would be if visible. I.e., the menu should only be
+		// visible when you first hover over/focus the nav link and then maintain
+		// over the menu. Using visibility: hidden/visible; to accomplish this
+		// breaks tab navigation.
+		opacity: 0;
+		overflow: hidden;
+		padding: 0;
+		width: 0;
+	}
 
-  // The tooltip's caret
-  .tooltip-content::before {
-    content: "";
-    position: absolute;
-    bottom: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: transparent transparent #555 transparent;
-  }
+	// The tooltip's caret
+	.tooltip-content::before {
+		content: "";
+		position: absolute;
+		bottom: 100%;
+		left: 50%;
+		margin-left: -5px;
+		border-width: 5px;
+		border-style: solid;
+		border-color: transparent transparent #555 transparent;
+	}
 
-  @mixin unhide-tooltip-content {
-    width: unset;
-    padding: 5px 8px;
-    opacity: 1;
-    overflow: visible; // So the caret shows
+	@mixin unhide-tooltip-content {
+		width: unset;
+		padding: 5px 8px;
+		opacity: 1;
+		overflow: visible; // So the caret shows
 
-    &.about-tooltip {
-      width: 212px;
-      left: 8%;
-    }
-  }
+		&.about-tooltip {
+			width: 212px;
+			left: 8%;
+		}
+	}
 
-  &:hover .tooltip-content {
-    @include unhide-tooltip-content;
-  }
+	&:hover .tooltip-content {
+		@include unhide-tooltip-content;
+	}
 
-  // Open the dropdown when the user tabs to (focuses) a header link or a menu link.
-  &:has(a:focus)>.tooltip-content {
-    @include unhide-tooltip-content;
-  }
+	// Open the dropdown when the user tabs to (focuses) a header link or a menu link.
+	&:has(a:focus)>.tooltip-content {
+		@include unhide-tooltip-content;
+	}
 
-  .tooltip-content a {
-    color: $lightGray;
-    text-align: left;
-    margin-left: 4px;
-    margin-right: 20px;
+	.tooltip-content a {
+		color: $lightGray;
+		text-align: left;
+		margin-left: 4px;
+		margin-right: 20px;
 
-    &:hover, &:active {
-      color: $lightblue;
-    }
-  }
+		&:hover, &:active {
+			color: $lightblue;
+		}
+	}
 }
 
 // Set in bootstrap.js. Pages under a top-level nav item should link to other pages under that nav item.
 body[input-type="TOUCH"] {
-  .tooltip-content {
-    display: none;
-  }
+	.tooltip-content {
+		display: none;
+	}
 }
 
 .google {
-  width: 500px;
+	width: 500px;
 }
 @media (max-width: 769px) {
-  .google {
-    width: 400px;
-  }
+	.google {
+		width: 400px;
+	}
 }
 @media (max-width: 670px) {
-  .google {
-    width: 380px;
-  }
+	.google {
+		width: 380px;
+	}
 }
