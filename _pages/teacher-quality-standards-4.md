@@ -12,17 +12,23 @@ permalink: /standards/four
 
 Lorem ipsum dolor sit amet
 
+<br>
+
 ### Element B
 
 > Teachers link professional growth to their professional goals.
 
 Lorem ipsum dolor sit amet
 
+<br>
+
 ### Element C
 
 > Teachers respond to a complex, dynamic environment.
 
 Lorem ipsum dolor sit amet
+
+<br>
 
 ### Element D
 

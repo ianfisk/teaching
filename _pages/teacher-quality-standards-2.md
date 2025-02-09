@@ -12,11 +12,15 @@ permalink: /standards/two
 
 Lorem ipsum dolor sit amet
 
+<br>
+
 ### Element B
 
 > Teachers demonstrate an awareness of, a commitment to, and a respect for multiple aspects of diversity, while working toward common goals as a community of learners.
 
 Lorem ipsum dolor sit amet
+
+<br>
 
 ### Element C
 
@@ -24,9 +28,9 @@ Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet
 
-### Element D
+<br>
 
-> Teachers work collaboratively with the families and/or significant adults for the benefit of students.
+### Element D – _Teachers work collaboratively with the families and/or significant adults for the benefit of students._
 
 <figure>
 	<img src="{{ site.baseurl }}/images/ptc-calendar.png">

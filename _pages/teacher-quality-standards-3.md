@@ -12,11 +12,15 @@ permalink: /standards/three
 
 Lorem ipsum dolor sit amet
 
+<br>
+
 ### Element B
 
 > Teachers use formal and informal methods to assess student learning, provide feedback, and use results to inform planning and instruction.
 
 Lorem ipsum dolor sit amet
+
+<br>
 
 ### Element C – _Teachers integrate and utilize appropriate available technology to engage students in authentic learning experiences._
 
@@ -33,6 +37,7 @@ The technology I used to facilitate this was Google Meet–I would start a meeti
 
 In almost all the classes I taught, it wasn’t hard to introduce technological tools into the curriculum. Part of Computer Science education is, after all, actually running programs on computers! Doing this requires using a suite of development tools that most students were not familiar with before the class. Not only did using Google Meet allow me to support my students’ first steps as new programmers, it also allowed them to see how an experienced developer interacts with development tools. Both of these outcomes were a huge help to my students.
 
+<br>
 
 ### Element D
 
@@ -40,11 +45,15 @@ In almost all the classes I taught, it wasn’t hard to introduce technological 
 
 Lorem ipsum dolor sit amet
 
+<br>
+
 ### Element E
 
 > Teachers provide students with opportunities to work in teams and develop leadership.
 
 Lorem ipsum dolor sit amet
+
+<br>
 
 ### Element F
 
