@@ -10,7 +10,7 @@ permalink: /standards/two
 
 > Teachers foster a predictable learning environment characterized by acceptable student behavior and efficient use of time in which each student has a positive, nurturing relationship with caring adults and peers.
 
-Lorem ipsum dolor sit amet
+TODO: Luigi and Waluigi?
 
 <br>
 

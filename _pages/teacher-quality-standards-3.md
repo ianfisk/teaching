@@ -43,7 +43,7 @@ In almost all the classes I taught, it wasn’t hard to introduce technological 
 
 > Teachers establish and communicate high expectations and use processes to support the development of critical-thinking and problem-solving skills.
 
-TODO: Rubric?
+TODO: Rubric? Code review activity?
 
 <br>
 
@@ -51,7 +51,7 @@ TODO: Rubric?
 
 > Teachers provide students with opportunities to work in teams and develop leadership.
 
-Lorem ipsum dolor sit amet
+TODO: Code review activity?
 
 <br>
 

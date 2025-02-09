@@ -30,11 +30,9 @@ Lorem ipsum dolor sit amet
 
 <br>
 
-### Element D
+### Element D – _Teachers demonstrate leadership in the school, the community, and the teaching profession._
 
-> Teachers demonstrate leadership in the school, the community, and the teaching profession.
-
-_"You're a baddie, Mr. Fisk."_ - Brianna
+TODO: FBLA?
 
 ## See more
 
