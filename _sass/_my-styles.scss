@@ -98,3 +98,20 @@ figcaption {
 	font-style: italic;
 	padding: 0 12px;
 }
+
+.inline-image {
+	margin: 4px 12px;
+	max-width: 300px;
+
+	&.right {
+		float: right;
+	}
+
+	@media (max-width: 670px) {
+		&.right {
+			float: none;
+			margin: unset;
+			max-width: 100%;
+		}
+	}
+}

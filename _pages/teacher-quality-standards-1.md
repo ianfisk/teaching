@@ -15,17 +15,15 @@ permalink: /standards/one
 
 I incorporate backwards design into all of my lesson and unit planning, and for me, this process starts by looking at Colorado’s Academic Standards, identifying which standards I need to meet in a given lesson/unit, and thinking about performance tasks I’ll use to assess students’ learning.
 
-Pictured are example learning targets for a lesson I developed to teach students about client-server architecture on the internet. To keep things fun, this lesson was developed around a project where students created and deployed their own versions of Wordle. The idea for this lab came to me after noticing that nearly all of my students liked the game, so why not take this interest and use it as an opportunity to teach the class about web development and internet architecture?
+<img class="inline-image right" src="{{ site.baseurl }}/images/rocky-wordle.png" alt="Unfinished Rocky Wordle student project.">
 
-### Element B
+Pictured above are example learning targets for a lesson I developed to teach students about client-server architecture on the internet. To keep things fun, this lesson was developed around a project where students created and deployed their own versions of Wordle. The idea for this lab came to me after noticing that nearly all of my students liked the game, so why not take this interest and use it as an opportunity to teach the class about web development and internet architecture?
 
-> Teachers develop and implement lessons that connect to a variety of content areas/disciplines and emphasize literacy and mathematical practices.
+<br>
 
-Lorem ipsum dolor sit amet
+### Element B – _Teachers develop and implement lessons that connect to a variety of content areas/disciplines and emphasize literacy and mathematical practices._
 
-### Element C
-
-> Teachers demonstrate knowledge of the content, central concepts, inquiry, appropriate evidence-based instructional practices, and specialized characteristics of the disciplines being taught.
+### Element C – _Teachers demonstrate knowledge of the content, central concepts, inquiry, appropriate evidence-based instructional practices, and specialized characteristics of the disciplines being taught._
 
 Lorem ipsum dolor sit amet
 
