@@ -115,3 +115,9 @@ figcaption {
 		}
 	}
 }
+
+span {
+	& > b {
+		display: none;
+	}
+}
