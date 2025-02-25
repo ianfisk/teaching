@@ -69,6 +69,7 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-target-blank # Open markdown links in new tabs. This also adds target= and rel= attributes to HTML links I've added to pages.
 
 include: ['_pages']
 

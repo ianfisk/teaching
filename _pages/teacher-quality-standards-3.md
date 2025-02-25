@@ -26,7 +26,7 @@ TODO: Screenshot of AP assignment feedback.
 
 <figure>
 	<img src="{{ site.baseurl }}/images/maze-project-overview-meet.png">
-	<figcaption>Screenshot from a pair-programming/project overview session with students over Google Meet. The full recording of this session can be found <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1otZJUR3qAvHkVz-qCzdcS_u8owZmcAc9/view?usp=sharing">here</a>.</figcaption>
+	<figcaption>Screenshot from a pair-programming/project overview session with students over Google Meet. The full recording of this session can be found <a href="https://drive.google.com/file/d/1otZJUR3qAvHkVz-qCzdcS_u8owZmcAc9/view?usp=sharing">here</a>.</figcaption>
 </figure>
 
 In the AP Computer Science A class I taught, some students gave me some valuable feedback early on about missing some of the big picture when it comes to writing programs in Java. They expressed that they were understanding lectures and demos I would do in front of the class, but then felt stuck when attempting to start on projects independently. They were overwhelmed by the steep learning curve of this college-level course.

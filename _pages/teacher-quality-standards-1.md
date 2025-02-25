@@ -10,7 +10,7 @@ permalink: /standards/one
 
 <figure>
 	<img src="{{ site.baseurl }}/images/client-server-lesson.png">
-	<figcaption>Client-Server lesson learning targets and enduring understandings. The lesson plans for this unit were developed from the state’s standards and can be found <a target="_blank" rel="noreferrer" href="https://drive.google.com/drive/folders/1wfnyN2uteld8psmBlKYPwbFbyTGA5py2?usp=drive_link">here</a>.</figcaption>
+	<figcaption>Client-Server lesson learning targets and enduring understandings. The lesson plans for this unit were developed from the state’s standards and can be found <a href="https://drive.google.com/drive/folders/1wfnyN2uteld8psmBlKYPwbFbyTGA5py2?usp=drive_link">here</a>.</figcaption>
 </figure>
 
 I incorporate backwards design into all of my lesson and unit planning, and for me, this process starts by looking at Colorado’s Academic Standards, identifying which standards I need to meet in a given lesson/unit, and thinking about performance tasks I’ll use to assess students’ learning.
