@@ -41,6 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: $helvetica;
 	color: $darkerGray;
 
+	font-weight: 300;
 	line-height: 1.7;
 	margin: 1em 0 15px;
 	padding: 0;
@@ -62,17 +63,18 @@ h2 {
 	font-size: 26px;
 }
 
-@media (min-width: 769px){
-	.post h2::before, .post h2::after {
-			content: "";
-			display: inline-block;
-			vertical-align: middle;
-			width: 46px;
-			height: 1px;
-			background: rgb(192, 211, 218);
-			margin: 0px 30px;
-	}
-}
+// // Draw a line before and after the h2.
+// @media (min-width: 769px){
+// 	.post h2::before, .post h2::after {
+// 			content: "";
+// 			display: inline-block;
+// 			vertical-align: middle;
+// 			width: 46px;
+// 			height: 1px;
+// 			background: rgb(192, 211, 218);
+// 			margin: 0px 30px;
+// 	}
+// }
 
 h3 {
 	font-size: 20px;
@@ -475,12 +477,15 @@ body:after {
 		z-index: 1000;
 }
 
+.post-title {
+	font-variant-caps: small-caps;
+}
+
 .post h1 {
 	font-family: $helvetica;
 	text-align: center;
 	font-kerning: auto;
 	font-feature-settings: "kern","liga","dlig","hlig","cswh";
-	font-weight: 300;
 	line-height: 1.2;
 }
 

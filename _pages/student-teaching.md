@@ -8,14 +8,16 @@ permalink: /student-teaching/
 
 I have been student teaching at Rocky Mountain High School in Fort Collins, Colorado with my mentor teacher Chance Mazzia, teaching a mixture of Computer Science and Business classes. Rocky is known as the "people place" in the Poudre School District—it is a desirable school to work in because of its strong culture, highly qualified staff, and rockstar students. My time in the school has been incredible. I've made real connections with the students and my colleagues, and I've especially enjoyed working with the other teachers in the business department. We make a great team, and I'll definitely miss everyone at this school when I leave.
 
-{% include pullquote-no-inline-text.html padding_bottom=true quote="I'm slowly moving along a path from being a software engineer that teaches, to a teacher that can engineer software." %}
+<br>
 
+{% include pullquote-no-inline-text.html padding_bottom=true quote="I'm slowly moving along a path from being a software engineer that teaches, to a teacher that can engineer software." %}
 Every quarter, we've been teaching two Computer Science classes and one Business class. This has given me great exposure teaching a subject that is not my primary area of expertise, and one that is often paired with Computer Science under the CTE umbrella. I naturally gravitate towards the Computer Science curriculum, but I've found that I _really_ enjoy the students in every class I teach in, which always leaves me feeling happy no matter the subject. I'm slowly moving along a path from being a software engineer that teaches, to a teacher that can engineer software.
 
 <figure class="rocky-paw">
 	<img src="{{ site.baseurl }}/images/rocky-paw.png" alt="Rocky Mountain High School paw print.">
 	<figcaption style="text-align:center;">Self. Purpose. Place</figcaption>
 </figure>
+<br>
 
 Our classes span grade levels, from enthusiastic younger students in introductory CS, Game Design, and Business classes to focused older students in AP Computer Science, dual-enrollment Intro to Programming, and advanced Game Design B. The younger students' infectious energy brightens my day, while the older students' depth and wit make advanced topics engaging.
 

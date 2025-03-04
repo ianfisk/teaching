@@ -139,5 +139,15 @@ span {
 	border-bottom: 1px solid #eee;
 	display: flex;
 	flex-direction: column;
-	margin-bottom: 40px;
+	margin-bottom: 64px;
+}
+
+.rubric2 {
+	max-width: 400px;
+}
+
+@media (max-width: 769px) {
+	.rubric2 {
+		display: none;
+	}
 }
