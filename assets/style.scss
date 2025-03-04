@@ -241,14 +241,6 @@ p > img {
 		clear: both;
 }
 
-/*********************/
-/* LAYOUT / SECTIONS */
-/*********************/
-
-//
-// .masthead
-//
-
 .wrapper-masthead {
 	margin-bottom: 25px;
 }
@@ -349,18 +341,51 @@ nav {
 	}
 }
 
-//
-// .main
-//
+.posts {
+	display: flex;
+	justify-content: space-around;
+	overflow: hidden;
 
-.posts > .post {
-	padding-bottom: 2em;
-	border-bottom: 1px solid $lightGray;
-}
+	a {
+		text-decoration: none;
 
-.posts > .post:last-child {
-	padding-bottom: 1em;
-	border-bottom: none;
+		h1 {
+			font-size: 30px;
+			transition: color .2s;
+		}
+
+		&:hover, &:active {
+			h1 {
+				color: unset;
+			}
+		}
+	}
+
+	.post {
+		background-color: $lightestGray;
+		border-bottom: 1px solid $lightestGray;
+		border-radius: 24px;
+		display: flex;
+		flex: 1;
+    flex-direction: column;
+		margin: 16px;
+    max-width: 240px;
+		padding: 30px;
+	}
+
+	.post:last-child {
+		padding-bottom: 1em;
+		border-bottom: none;
+	}
+
+	.post-excerpt {
+		font-size: 16px;
+		margin-bottom: 8px;
+	}
+
+	.post-img {
+		vertical-align: bottom;
+	}
 }
 
 .page, .post {
@@ -377,6 +402,23 @@ nav {
 	.read-more {
 		text-transform: uppercase;
 		font-size: 15px;
+	}
+}
+
+@media (max-width: 769px) {
+	.posts > .post h1 {
+		font-size: 24px;
+	}
+}
+
+@media (max-width: 670px) {
+	.posts {
+		align-items: center;
+		flex-direction: column;
+
+		.post {
+			max-width: none;
+		}
 	}
 }
 
@@ -471,12 +513,13 @@ body:after {
 }
 
 .post-tags a {
-	font-size: 14.5px;
-	padding: 2px 13px;
 	border: none;
 	background-color: #4CAF50;
 	border-radius: 50px;
 	color: #fff;
+	font-size: 14.5px;
+	padding: 2px 13px;
+	text-decoration: none;
 }
 
 .pagination a, .pagination span {

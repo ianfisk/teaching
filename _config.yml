@@ -53,6 +53,11 @@ version: v1.2.0
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
+
+  # # Make headers links. Links are not being added...
+  # header_links: true
+  # auto_ids: true
+
   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
   syntax_highlighter_opts:
