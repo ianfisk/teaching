@@ -10,7 +10,7 @@ permalink: /standards/two
 
 > Teachers foster a predictable learning environment characterized by acceptable student behavior and efficient use of time in which each student has a positive, nurturing relationship with caring adults and peers.
 
-TODO: Luigi and Waluigi?
+TODO: Luigi and Waluigi? OR picture of me helping Ben and Grayson on the computer.
 
 <br>
 
@@ -18,7 +18,12 @@ TODO: Luigi and Waluigi?
 
 > Teachers demonstrate an awareness of, a commitment to, and a respect for multiple aspects of diversity, while working toward common goals as a community of learners.
 
-Lorem ipsum dolor sit amet
+<figure>
+	<img src="{{ site.baseurl }}/images/rocky-deia.jpg">
+	<figcaption>Rocky staff meeting discussing DEIA in our school.</figcaption>
+</figure>
+
+TODO: DEIA meeting and slide deck presented by Jaelyn on staff work day 2/17.
 
 <br>
 
@@ -26,7 +31,14 @@ Lorem ipsum dolor sit amet
 
 > Teachers engage students as individuals, including those with diverse needs and interests, across a range of ability levels by adapting their teaching for the benefit of all students.
 
-Lorem ipsum dolor sit amet
+TODO: Adapting curriculum so every student can see themselves in my course, even CS course. Adapting curriculum to accomodate students on IEPs in Game Design A. Food Truck Capstone project.
+NOT Wordle lab bc I've already mentioned that a ton.
+
+#### My favorite student quotes
+
+>You're a baddy, Mr. Fisk. - Brianna
+
+>You and Mr. Lyell are **top**, Mr. Fisk. - Evonie
 
 <br>
 

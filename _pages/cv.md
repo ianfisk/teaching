@@ -12,3 +12,4 @@ Don't hesitate to reach out to me at <span>i.<b>hidden</b>&#102;&#105;&#115;&#10
 
 - [About me]({{ site.baseurl }}/about-me)
 - [Teaching philosophy]({{ site.baseurl }}/philosophy)
+- [Student teaching]({{ site.baseurl }}/student-teaching)

@@ -24,7 +24,12 @@ Pictured above are example learning targets for a lesson I developed to teach st
 
 ### Element B – _Teachers develop and implement lessons that connect to a variety of content areas/disciplines and emphasize literacy and mathematical practices._
 
-TODO: Talk about Intro to Business class talking about economics and reading inflation charts.
+<figure>
+	<img src="{{ site.baseurl }}/images/accounting-sheet.png">
+	<figcaption>Accounting spreadsheet students used to track lemonade stand earnings.</figcaption>
+</figure>
+
+TODO: Talk about Intro to Business class talking about economics, reading inflation charts, earnings reports, and calculating gains when investing in funds for 10 year periods.
 
 <br>
 

@@ -6,11 +6,9 @@ permalink: /standards/four
 
 ## _Teachers demonstrate professionalism through ethical conduct, reflection, and leadership._
 
-### Element A
+### Element A – _Teachers demonstrate high standards for professional conduct._
 
-> Teachers demonstrate high standards for professional conduct.
-
-Lorem ipsum dolor sit amet
+Everyday I dress good. I talk good.
 
 <br>
 

@@ -1,1 +1,1 @@
-{{ include.quote }}<span data-pullquote="{{ include.quote }}"></span>
+{{ include.quote }}<span data-pullquote="{{ include.quote }}" {% if include.left %} data-left {% endif %} {% if include.padding_bottom %} data-padding-bottom {% endif %}></span>

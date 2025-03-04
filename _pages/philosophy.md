@@ -23,4 +23,5 @@ Tenets of my educational philosophy:
 ## See more
 
 - [About me]({{ site.baseurl }}/about-me)
+- [Student teaching]({{ site.baseurl }}/student-teaching)
 - [Curriculum Vitae]({{ site.baseurl }}/cv)
