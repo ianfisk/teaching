@@ -343,7 +343,7 @@ nav {
 
 .posts {
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-evenly;
 	overflow: hidden;
 
 	a {
@@ -369,7 +369,7 @@ nav {
 		flex: 1;
     flex-direction: column;
 		margin: 16px;
-    max-width: 240px;
+    max-width: 280px;
 		padding: 30px;
 	}
 
@@ -378,13 +378,22 @@ nav {
 		border-bottom: none;
 	}
 
+	.post-anchor {
+		display: flex;
+		flex-direction: column;
+	}
+
 	.post-excerpt {
 		font-size: 16px;
 		margin-bottom: 8px;
 	}
 
 	.post-img {
+		border-radius: 12px;
+		height: 100%;
+		object-fit: contain;
 		vertical-align: bottom;
+		width: 100%;
 	}
 }
 

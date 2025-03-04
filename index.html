@@ -10,8 +10,8 @@ layout: default
 <div class="posts">
 	{% for post in paginator.posts %}
 		<article class="post">
-			<a href="{{ site.baseurl }}{{ post.url }}">
-				<img class="post-img" src="{{ site.baseurl }}/images/{{ post.imgName }}" alt="{{ post.imgAlt }}">
+			<a class="post-anchor" {% if post.linkOverride %} href="{{ site.baseurl }}{{ post.linkOverride }}" {% else %} href="{{ site.baseurl }}{{ post.url }}" {% endif %}>
+					<img class="post-img" src="{{ site.baseurl }}/images/{{ post.imgName }}" alt="{{ post.imgAlt }}">
 				<h1>{{ post.title }}</h1>
 				<div>
 					<p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
@@ -21,7 +21,7 @@ layout: default
 				{{ post.excerpt }}
 			</div>
 
-			<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+			<a {% if post.linkOverride %} href="{{ site.baseurl }}{{ post.linkOverride }}" {% else %} href="{{ site.baseurl }}{{ post.url }}" {% endif %} class="read-more">Read More</a>
 		</article>
 	{% endfor %}
 
