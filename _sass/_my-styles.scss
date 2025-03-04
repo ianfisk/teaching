@@ -133,3 +133,20 @@ span {
 	margin: 8px 32px 0 8px;
 	max-width: 120px;
 }
+
+.posts {
+	a {
+		text-decoration: none;
+
+		h1 {
+			transition: color .2s;
+		}
+
+		&:hover, &:active {
+			// text-decoration: underline;
+			h1 {
+				color: unset;
+			}
+		}
+	}
+}
