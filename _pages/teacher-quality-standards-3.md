@@ -10,7 +10,12 @@ permalink: /standards/three
 
 > Teachers demonstrate knowledge about the ways in which learning takes place, including the levels of intellectual, physical, social, and emotional development of their students.
 
-Lorem ipsum dolor sit amet
+<figure>
+	<img src="{{ site.baseurl }}/images/grit.png">
+	<figcaption>Lesson content encouraging students' productive struggle and grit development.</figcaption>
+</figure>
+
+I introduce a growth mindset to my students in all my classes because I believe in its value, especially when learning. This slide is from a pump-up lesson delivered to students in my AP Computer Science class. It is imperative students in that class embrace productive struggle and develop grit that will serve them when debugging challenging assignments. This lesson was meant to encourage students to become independent problem solvers and to become a little more comfortable with discomfort felt when wrestling with a hard concept.
 
 <br>
 
@@ -18,7 +23,12 @@ Lorem ipsum dolor sit amet
 
 > Teachers use formal and informal methods to assess student learning, provide feedback, and use results to inform planning and instruction.
 
-TODO: Screenshot of AP assignment feedback.
+<figure>
+	<img src="{{ site.baseurl }}/images/code-feedback.png">
+	<figcaption>Example inline feedback comments made on student code.</figcaption>
+</figure>
+
+In AP Computer Science, I used Google Docs as a stop-gap solution to deliver more actionable code review feedback through inline comments on students' submissions. This method of delivering feedback came about because of my frustration and inability to provide the feedback I wanted to because we do not have a formal revision control system in the school. The process was time-consuming for me—I had to copy a snippet of code into an editor to get some syntax highlighting, then into a Google Doc configured in a way that it can be shared with the student, then actually do the line-by-line code review—but my pleasure with the results, and students expressed pleasure with the easy-to-read comments, made it all worth it.
 
 <br>
 
@@ -43,7 +53,12 @@ In almost all the classes I taught, it wasn’t hard to introduce technological 
 
 > Teachers establish and communicate high expectations and use processes to support the development of critical-thinking and problem-solving skills.
 
-TODO: Rubric? Code review activity?
+<figure>
+	<img src="{{ site.baseurl }}/images/game-design-b-rubric.png">
+	<figcaption>A very large, very detailed rubric used to communicated expectations for Game Design B final projects.</figcaption>
+</figure>
+
+Here is an example rubric used in my classes, this one being for the final project in Game Design B. The rubric is detailed enough to give students a precise picture of our expectations and how their project will be graded. We plant the goalpost for them in explicit terms so they know exactly where they need to go in their project. Along the way, I provide checkpoints so students can accurately assess how they are progressing towards the goal.
 
 <br>
 
@@ -51,7 +66,12 @@ TODO: Rubric? Code review activity?
 
 > Teachers provide students with opportunities to work in teams and develop leadership.
 
-TODO: Code review activity?
+<figure>
+	<img src="{{ site.baseurl }}/images/critique.png">
+	<figcaption>Screenshot from a code review tool at Google. This tool was used to teach students about reviewing code in a software team.</figcaption>
+</figure>
+
+In an introductory programming course, I introduced a lesson on reviewing code in a more formal way. This picture is of a code review tool, Critique, I used at Google, and has some example comments from reviewers asking for revisions from the code author. This example was used in the lesson delivered to students. In the code review activity, students started by working together in teams to review and make suggestions on snippets of code. This group review session was inspired by research that showed positive results of similar techniques in college settings.
 
 <br>
 
