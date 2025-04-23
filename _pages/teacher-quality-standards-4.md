@@ -6,9 +6,7 @@ permalink: /standards/four
 
 ## _Teachers demonstrate professionalism through ethical conduct, reflection, and leadership._
 
-### Element A
-
-> Teachers demonstrate high standards for professional conduct.
+### Element A – _Teachers demonstrate high standards for professional conduct._
 
 <figure>
 	<img src="{{ site.baseurl }}/images/fbla-me-lynne.jpeg">
@@ -19,9 +17,7 @@ This photo shows me and fellow business teacher Lynne Lyell chaperoning the FBLA
 
 <br>
 
-### Element B
-
-> Teachers link professional growth to their professional goals.
+### Element B – _Teachers link professional growth to their professional goals._
 
 <figure>
 	<img src="{{ site.baseurl }}/images/georgia-tech-cs.png">
@@ -32,9 +28,7 @@ Even though I'm just finishing my M.Ed. program at CSU, I’m already thinking a
 
 <br>
 
-### Element C
-
-> Teachers respond to a complex, dynamic environment.
+### Element C – _Teachers respond to a complex, dynamic environment._
 
 <figure>
 	<img src="{{ site.baseurl }}/images/guy.jpg">
@@ -45,9 +39,7 @@ I’m honestly not really sure what artifact to use for this standard, nor do I 
 
 <br>
 
-### Element D
-
-> Teachers demonstrate leadership in the school, the community, and the teaching profession.
+### Element D – _Teachers demonstrate leadership in the school, the community, and the teaching profession._
 
 <figure>
 	<img src="{{ site.baseurl }}/images/github.png">

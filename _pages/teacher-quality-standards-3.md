@@ -6,9 +6,7 @@ permalink: /standards/three
 
 ## _Teachers plan and deliver effective instruction and create an environment that facilitates learning for their students._
 
-### Element A
-
-> Teachers demonstrate knowledge about the ways in which learning takes place, including the levels of intellectual, physical, social, and emotional development of their students.
+### Element A – _Teachers demonstrate knowledge about the ways in which learning takes place, including the levels of intellectual, physical, social, and emotional development of their students._
 
 <figure>
 	<img src="{{ site.baseurl }}/images/grit.png">
@@ -19,9 +17,7 @@ I introduce a growth mindset to my students in all my classes because I believe 
 
 <br>
 
-### Element B
-
-> Teachers use formal and informal methods to assess student learning, provide feedback, and use results to inform planning and instruction.
+### Element B – _Teachers use formal and informal methods to assess student learning, provide feedback, and use results to inform planning and instruction._
 
 <figure>
 	<img src="{{ site.baseurl }}/images/code-feedback.png">
@@ -49,9 +45,7 @@ In almost all the classes I taught, it wasn’t hard to introduce technological 
 
 <br>
 
-### Element D
-
-> Teachers establish and communicate high expectations and use processes to support the development of critical-thinking and problem-solving skills.
+### Element D – _Teachers establish and communicate high expectations and use processes to support the development of critical-thinking and problem-solving skills._
 
 <figure>
 	<img src="{{ site.baseurl }}/images/game-design-b-rubric.png">
@@ -62,9 +56,7 @@ Here is an example rubric used in my classes, this one being for the final proje
 
 <br>
 
-### Element E
-
-> Teachers provide students with opportunities to work in teams and develop leadership.
+### Element E – _Teachers provide students with opportunities to work in teams and develop leadership._
 
 <figure>
 	<img src="{{ site.baseurl }}/images/critique.png">

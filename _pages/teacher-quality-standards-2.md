@@ -6,9 +6,7 @@ permalink: /standards/two
 
 ## _Teachers establish a safe, inclusive and respectful learning environment for a diverse population of students._
 
-### Element A
-
-> Teachers foster a predictable learning environment characterized by acceptable student behavior and efficient use of time in which each student has a positive, nurturing relationship with caring adults and peers.
+### Element A – _Teachers foster a predictable learning environment characterized by acceptable student behavior and efficient use of time in which each student has a positive, nurturing relationship with caring adults and peers._
 
 <figure>
 	<img src="{{ site.baseurl }}/images/warm-up-videos.png">
@@ -19,9 +17,7 @@ Predictability in the classroom is so important for student success, cultivating
 
 <br>
 
-### Element B
-
-> Teachers demonstrate an awareness of, a commitment to, and a respect for multiple aspects of diversity, while working toward common goals as a community of learners.
+### Element B – _Teachers demonstrate an awareness of, a commitment to, and a respect for multiple aspects of diversity, while working toward common goals as a community of learners._
 
 <figure>
 	<img src="{{ site.baseurl }}/images/rocky-deia.jpg">
@@ -33,9 +29,7 @@ Pictured above is a slide from a DEIA workshop me and other Rocky staff took par
 
 <br>
 
-### Element C
-
-> Teachers engage students as individuals, including those with diverse needs and interests, across a range of ability levels by adapting their teaching for the benefit of all students.
+### Element C – _Teachers engage students as individuals, including those with diverse needs and interests, across a range of ability levels by adapting their teaching for the benefit of all students._
 
 #### My favorite student quotes
 
