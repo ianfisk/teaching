@@ -46,6 +46,13 @@ I consider both my degree in the field and my work experience to be essential to
 
 My transition into teaching is something I see as the perfect application of the knowledge I’ve gained studying and working as an engineer. Teaching gives me an outlet to give back to the community in a tangible way, making an impact that matters more than, say, managing servers and looking at application usage metrics.
 
+## Reflection
+
+This collection of artifacts and reflections powerfully illustrates mastery of content and pedagogical expertise in teaching, specifically within the realm of Computer Science. With my work experience and innate curiosity, I have a deep understanding of software engineering and many other disciplines used in the professional world. This wealth of experience allows me to develop lessons that cross boundaries and incorporate many important aspects of engineering, business, math, and literacy.
+
+I found that incorporating math to be one of the easier things when designing lessons given my love and enthusiasm for the subject. If I’m enthusiastic about the lesson that rubs off on my students and goes a long way in developing intrinsic motivation in them. Literacy also fits in well with Computer Science and Business curriculums, since there is so much jargon and reading required for these subjects.
+
+
 ## See more
 
 - [Teaching Standard II]({{ site.baseurl }}/standards/two)

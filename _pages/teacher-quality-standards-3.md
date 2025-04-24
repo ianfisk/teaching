@@ -80,6 +80,12 @@ Here is an example of an announcement I made to a class to communicate what was 
 
 A more formal example of how I communicate with students can be found in [these lab instructions directing students in their development of a Wordle clone](https://github.com/ianfisk/teaching-materials/blob/main/wordle/part-one/README.md). I developed this project with a focus on differentiated instruction—the entire project idea came about after noticing how much my students loved Wordle, and I focused on supporting a variety of learners by creating detailed written instruction accompanied by screenshots and video instruction.
 
+## Reflection
+
+My past work and experience using data-driven decision processes has changed how I approach areas of my life outside of engineering work. In teaching, I see the opportunity to make data-driven decisions in nearly all aspects of the job. Obviously all assessments are data that I can use to inform my practice, but really any little bit of quantitative or qualitative information is valuable to me and informs my teaching. I like making decisions with some supporting data, so I’m always looking for that in the job.
+
+I’ve also found that there’s a lot of intuition-based decision making that takes place minute-by-minute in this job. It’s not exactly how I like to operate, because I’d rather have explicit, quantitative data to operate from, but I also recognize that all my life experiences and data-driven thinking have honed my intuition to be a tool I can trust and use effectively in the classroom. I really believe that this approach to life/work is critical to meet the expectations of this standard, and to create and deliver teaching experiences that engage my students in meaningful ways.
+
 ## See more
 
 - [Teaching Standard I]({{ site.baseurl }}/standards/one)

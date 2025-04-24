@@ -54,6 +54,12 @@ In January and February, I actively engaged in Rocky's Back to School Night and 
 
 Back to School Night and Parent/Teacher Conferences provided invaluable opportunities to establish positive relationships with families. These events allowed me to introduce myself, learn about families' backgrounds and perspectives, and create a welcoming environment where parents could get to know me. My goal was to build trust and confidence in my role as a student teacher and in my instructional plans. These initial connections proved essential in cultivating open communication and ultimately allowed me to better support the success of my students.
 
+## Reflection
+
+One of the most valuable things I’ve learned in CSU’s program is how to create an environment in the classroom that is conducive to learning for high school students. This is really rooted in developing relationships with students, developing a positive classroom community, communicating your expectations for students, and establishing a routine in the classroom.
+
+I’ve been very pleased with my ability to form really positive relationships with my students. I’m enthusiastic to see them everyday, and that enthusiasm is reciprocated by them to me. I’ve noticed it’s been a little easier to build relationships and classroom community in a traditional classroom as opposed to the computer lab because the students are more focused on each other and me, and not on playing games on the computers before class. When I have my own classroom, I’ll perhaps be a little more strict about computer game playing than we are here at Rocky, and I also may experiment with different classroom arrangements to see how that affects the classroom feel.
+
 ## See more
 
 - [Teaching Standard I]({{ site.baseurl }}/standards/one)

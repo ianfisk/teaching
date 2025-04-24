@@ -48,6 +48,13 @@ I’m honestly not really sure what artifact to use for this standard, nor do I 
 
 Nearly the whole school year, I’ve been advocating for a specific software development tool to be unlocked for us to use in the classroom. These discussions took place between me and an IT manager in the district, my mentor teacher, and some other business teachers within the district. This screenshot is showing an email between me and a business teacher from Timnath Middle/High talking about the tool and the possibility of using it. It’s hard for student teachers to make a meaningful impact in their schools, but this was an area that I could at least help communicate to district admin the importance of this tool and its ubiquitous use in professional engineering workflows.
 
+## Reflection
+
+This standard was the hardest for me to find artifacts to put on the page. It’s not that I don’t do/demonstrate these standards, but how do you show this in an artifact? Anyways, I tried to pick artifacts that show my current involvement in the district, my future 3-5 year plans, and one goofy image…
+
+Regarding elements A and D I’ve made it a point to always dress in business casual-esque clothing in school, which is more than I did when working as a software engineer. I feel like this helps me be the leader that is expected of teachers. Working in the school is always complex, and dressing well, speaking with precision, and being a role model for students helps to stabilize the chaos. That said, it’s a very dynamic environment that requires lots of micro-decisions to be made, which ties back to my discussion about trusting my intuition in my reflection on standard 3. Over the long run, I plan on obtaining my master’s degree in CS to increase the number of concurrent enrollment classes I can teach.
+
+
 ## See more
 
 - [Teaching Standard I]({{ site.baseurl }}/standards/one)
