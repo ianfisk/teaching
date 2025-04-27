@@ -29,8 +29,6 @@ Pictured above are example learning targets for a lesson I developed to teach st
 	<figcaption>Accounting spreadsheet students used to track lemonade stand earnings.</figcaption>
 </figure>
 
-TODO: Talk about Intro to Business class talking about economics, reading inflation charts, earnings reports, and calculating gains when investing in funds for 10 year periods.
-
 <br>
 
 ### Element C – _Teachers demonstrate knowledge of the content, central concepts, inquiry, appropriate evidence-based instructional practices, and specialized characteristics of the disciplines being taught._
