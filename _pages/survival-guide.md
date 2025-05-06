@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Master's Program Survival Kit
+title:
 permalink: /capstone/survival
 ---
 
