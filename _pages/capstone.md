@@ -62,3 +62,8 @@ Building relationships with my students, having fun, and watching learning take 
 ### Friends
 <img src="{{ site.baseurl }}/images/amigos.jpeg" alt="Friends">
 <br>
+
+## More capstone content
+
+- [Survival Kit]({{ site.baseurl }}/capstone/survival)
+- [Presentation of Learning]({{ site.baseurl }}/capstone/pol)
